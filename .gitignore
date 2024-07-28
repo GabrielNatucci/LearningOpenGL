@@ -1,5 +1,7 @@
-/.cache
-/.bin
-/.CMakeFiles
-/.out
-.cmake_install.cmake
+CMakeFiles
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Game
+Makefile
+cmake_install.cmake
+CMakeCache.txt
