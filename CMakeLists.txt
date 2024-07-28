@@ -7,7 +7,7 @@ project(${PROJECT_NAME} VERSION ${VERSION} LANGUAGES C)
 
 include_directories(SYSTEM "include/glad")
 
-add_executable(${PROJECT_NAME} src/hello_triangle/exercise/1/main.c "include/glad/glad.c")
+add_executable(${PROJECT_NAME} src/hello_triangle/exercise/3/main.c "include/glad/glad.c")
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
